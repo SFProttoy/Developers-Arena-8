@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react/cjs/react.development";
+import { useEffect, useState } from "react";
 import Cart from "../Cart/Cart";
 import Developer from "../Developer/Developer";
 
@@ -7,7 +7,7 @@ const Developers = () => {
 
   // load data from json file
   useEffect(() => {
-    fetch("./dev-data.JSON")
+    fetch("./data.JSON")
       .then((res) => res.json())
       .then((data) => setDevelopers(data));
   }, []);
