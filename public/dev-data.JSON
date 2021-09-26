@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "img": "https://s3.envato.com/files/290145107/WY0A8441.jpg",
+    "name": "Alan Parker",
+    "age": 35,
+    "position": "Sr. Developer",
+    "stack": "MERN",
+    "salary": 25000
+  },
+  {
+    "id": 2,
+    "img": "https://ak.picdn.net/shutterstock/videos/18042598/thumb/1.jpg",
+    "name": "John Smith",
+    "age": 32,
+    "position": "Mid-level Developer",
+    "stack": "MEAN",
+    "salary": 10000
+  },
+  {
+    "id": 3,
+    "img": "https://ak.picdn.net/shutterstock/videos/4849793/thumb/1.jpg",
+    "name": "Bob Cameron",
+    "age": 30,
+    "position": "Mid-level Developer",
+    "stack": "LAMP",
+    "salary": 8000
+  },
+  {
+    "id": 4,
+    "img": "https://ath2.unileverservices.com/wp-content/uploads/sites/3/2017/10/young-men-haircuts-layered-gelled-min.jpg",
+    "name": "William Hamilton",
+    "age": 28,
+    "position": "Jr. Developer",
+    "stack": "MERN",
+    "salary": 6000
+  },
+  {
+    "id": 5,
+    "img": "https://herway.net/wp-content/uploads/2019/07/Top-13-Signs-Of-An-Emotionally-Mature-Man-731x488.jpg",
+    "name": "Ruthrford Willy",
+    "age": 30,
+    "position": "Mid-level Developer",
+    "stack": "MEAN",
+    "salary": 5000
+  },
+  {
+    "id": 6,
+    "img": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg&ga=GA1.2.1845651797.1630368000",
+    "name": "Mark Peterson",
+    "age": 34,
+    "position": "Sr. Developer",
+    "stack": "Flutter",
+    "salary": 20000
+  },
+  {
+    "id": 7,
+    "img": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fG1lbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    "name": "Osman Gani",
+    "age": 33,
+    "position": "Sr. Developer",
+    "stack": "RoR",
+    "salary": 25000
+  },
+  {
+    "id": 8,
+    "img": "https://thumbs.dreamstime.com/b/handsome-teenage-boy-hoodie-portrait-posing-over-gray-background-studio-shot-teen-fashion-174614664.jpg",
+    "name": "Hamza Khan",
+    "age": 25,
+    "position": "Jr. Developer",
+    "stack": "Flutter",
+    "salary": 2500
+  },
+  {
+    "id": 9,
+    "img": "https://image.freepik.com/free-photo/handsome-young-man-with-new-stylish-haircut_176420-19637.jpg",
+    "name": "Shaun Steve",
+    "age": 27,
+    "position": "Jr. Developer",
+    "stack": "LAMP",
+    "salary": 2000
+  },
+  {
+    "id": 10,
+    "img": "https://t4.ftcdn.net/jpg/02/93/34/13/360_F_293341309_AjcDBJgKsoecAutNy5bKZDL9Sq2wpOFp.jpg",
+    "name": "Grant Home",
+    "age": 36,
+    "position": "Sr. Developer",
+    "stack": "LAMP",
+    "salary": 20000
+  },
+  {
+    "id": 11,
+    "img": "https://thumbs.dreamstime.com/b/man-walking-streets-london-night-young-hipster-earphones-listening-music-73919729.jpg",
+    "name": "Steve Buckner",
+    "age": 28,
+    "position": "jr. Developer",
+    "stack": "MEAN",
+    "salary": 5000
+  }
+]
